@@ -12,7 +12,7 @@ O objetivo é engajar a nossa equipe a produzir mais conteúdo original em portu
 
 Submeta um [novo issue](https://github.com/autodoc/agenda-medium/issues/new) com o título no formato do exemplo abaixo:
 
-	02/05/16 - Criando aplicativos com Firebase - José da Silva
+	02/09/16 - Criando aplicativos com Firebase - José Corrêa
 
 A descrição do issue tem um template, onde deve ser preenchido o nome do autor(a), data em que ele(a) deseja publicar o seu artigo, título do artigo e uma descrição pequena do que se trata o artigo, como no exemplo abaixo:
 
@@ -42,7 +42,7 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 
 Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
-Agosto | 16/08/16 | MVP e MVC
+Agosto | 16/08/16 | MVP e MVC | **Diones Camargo**
 Setembro | 16/09/16 | -- | --
 Outubro | 16/10/16 | -- | --
 Novembro | 16/11/16 | -- | --

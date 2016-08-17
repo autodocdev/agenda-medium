@@ -29,7 +29,7 @@ Não queremos vetar ou dificultar de forma alguma a publicação ou submissão d
 
 Ao finalizar o artigo, o autor deve:
 
-* Solicitar no canal #medium do [Slack do Android Dev BR](https://autodoc.slack.com) a autorização de editor na nossa publicação no [Medium](http://medium.com/autodoc). 
+* Solicitar no canal #medium do [Slack do Autodoc](https://autodoc.slack.com) a autorização de editor na nossa publicação no [Medium](http://medium.com/autodoc). 
 * Após se tornar editor, submeter o artigo para nossa publicação no [Medium](http://medium.com/autodoc).
 
 Os artigos devem ser submetidos com pelo menos **1 dia de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade.

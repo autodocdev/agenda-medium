@@ -44,6 +44,7 @@ Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
 Agosto | 16/08/16 | MVP e MVC | **Diones Camargo**
 Agosto | 16/08/16 | Testes unitário no Android | 
+Agosto | 16/08/16 | Testes unitário no PHP | 
 Agosto | 16/08/16 | Laravel | 
 Agosto | 16/08/16 | Gitflow | 
 Agosto | 16/08/16 | NoSQL, quando utilizar | 

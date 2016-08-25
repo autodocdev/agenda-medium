@@ -43,11 +43,10 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
 Agosto | 16/08/16 | MVP e MVC | **Diones Camargo**
-Agosto | 16/08/16 | Testes unitário no Android | 
-Agosto | 16/08/16 | Testes unitário no PHP | 
-Agosto | 16/08/16 | Laravel | 
-Agosto | 16/08/16 | Gitflow | 
-Agosto | 16/08/16 | NoSQL, quando utilizar | 
+Agosto | 16/08/16 | Testes unitário no Android | **Diones Camargo**
+Agosto | 16/08/16 | Testes unitário no PHP | **Gabriel Fantin**
+Agosto | 16/08/16 | Deploy | **Danilo Corrêa** e **Fernando Felício**
+Agosto | 16/08/16 | NoSQL e Firebase | **Diego Caetano** e **Diones Camargo**
 Setembro | 16/09/16 | -- | --
 Outubro | 16/10/16 | -- | --
 Novembro | 16/11/16 | -- | --
